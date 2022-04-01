@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atrej3000
 - 👀 I’m interested in .Net stack.
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting project, that i can involve in with my entry level.
 - 📫 How to reach me: https://www.facebook.com/andrii.serha/
 
 <!---
